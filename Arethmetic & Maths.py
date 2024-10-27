@@ -16,5 +16,6 @@ friends=10
 # friends**=2
 
 reminder=friends % 3
-
 print(friends)
+
+
